@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidEat</string>
+    <string name="slogan">No mater where you are</string>
+    <string name="txt_signUp">Sign Up</string>
+    <string name="txt_signIn">Sign In</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
