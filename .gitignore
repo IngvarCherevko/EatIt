@@ -7,3 +7,15 @@
 /build
 /captures
 .externalNativeBuild
+.gitignore
+app/.gitignore
+app/build.gradle
+app/google-services.json
+app/libs/
+app/proguard-rules.pro
+gradle.properties
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
+src/main/res/layout-v21/
